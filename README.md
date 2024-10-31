@@ -22,3 +22,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyqaz7548&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyqaz7548&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![wakatime](https://wakatime.com/badge/user/4e19f77a-1698-4b5e-839f-117abb42c213.svg)](https://wakatime.com/@4e19f77a-1698-4b5e-839f-117abb42c213)
